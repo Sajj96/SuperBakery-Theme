@@ -1,3 +1,5 @@
+# SuperBakery-Theme
+
 Super Bakery is a Bootstrap 5 business website template that is available for $1. With its fascinating style and functionality, it is perfect for an online service website and to reach a wider audience. Super Bakery can also be used as portfolio template as well. It is a modern, sophisticated, and minimalistic template with a light design style and blue color. Super Bakery is 100% responsive and well-optimized that anyone can comfortably work with it. It provides almost all of the most recent components accessible for any site, allowing you to go without worry.
 
 
