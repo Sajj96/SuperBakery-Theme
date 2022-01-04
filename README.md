@@ -9,7 +9,7 @@ Along with its glittering attire and design, it has several catchy features like
 
 
 
-# # Key Features
+## Key Features
 Bootstrap 5
 HTML5 & CSS3
 100% responsive
@@ -28,14 +28,14 @@ Font awesome
 Google fonts
 
 
-# # In the box
+## In the box
 All demo images
 All HTML files
 JavaScript source files
 Library and plugin files
 
 
-# # Libraries & Plugins
+## Libraries & Plugins
 Bootstrap 5
 Font awesome
 Google fonts
