@@ -36,6 +36,6 @@ Along with its glittering attire and design, it has several catchy features like
 
 
 ## Libraries & Plugins
--[Bootstrap 5](https://getbootstrap.com/)
--[Font awesome](https://fontawesome.com/)
--[Google fonts](https://fonts.google.com/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Font awesome](https://fontawesome.com/)
+- [Google fonts](https://fonts.google.com/)
