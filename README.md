@@ -5,7 +5,7 @@ Super Bakery is a Bootstrap 5 business website template that is available for $1
 
 
 Bootstrap 5 HTML5 Business Website Template
-Along with its glittering attire and design, it has several catchy features like a hero header, sticky navigation bar, dropdown menu bar, about us, services, products, testimonials, team, image slider for customer logos, footer navigation, and more. With some basic knowledge of HTML and CSS, you can give it your signature touch. You can also go tension-free with this new template and use it straight out of the box. Start with Nubis template for a strong boost to your project.
+Along with its glittering attire and design, it has several catchy features like a hero header, sticky navigation bar, dropdown menu bar, about us, services, products, testimonials, team, image slider for customer logos, footer navigation, and more. With some basic knowledge of HTML and CSS, you can give it your signature touch. You can also go tension-free with this new template and use it straight out of the box. Start with Super Bakery template for a strong boost to your project.
 
 
 
